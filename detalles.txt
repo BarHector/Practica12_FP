@@ -1,0 +1,8 @@
+Elaborar una libreria en lenguaje C, la cual calcule los angulos seno, coseno, tangente,
+cotangente, secante y cosecante. Esta libreria se debe de ejecutar en un programa en C.
+
+Notas
+Para la elaboración de una libreria el archivo es .h
+En el programa en el que se ejecuta se agrega casi de la misma manera que otras librerias
+con la diferencia que en vez de que el nombre de la libreria este entre los simbolos < y >,
+se usan dobles comillas.
